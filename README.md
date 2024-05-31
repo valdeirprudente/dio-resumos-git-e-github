@@ -1,10 +1,10 @@
-|Comandos|Resumos|
+|Comando |Resumos|
 |------|--------|
 |......|.........|
-| Granvando Alterações no Repositório local |[Resumos]() |
-|          |                          |
+| Aula 01 |[Resumos]() |
+| Aula 02 |[Resumos]() |                   
 ...
 git init 
 
-## 🔍Referências
+## 🔍  Referências
  -[Digital Innovation]()
