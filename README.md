@@ -8,8 +8,10 @@ Repositório para armazenar arquivos sobre Git e Github do curso de Versionament
 - [Documentação  Git hub](https://docs.github.com/pt)
 ##💻Resumos das aulas 
 |Aulas | Resumo |
+|---------------|
 |......|.........|
 | Granvando Alterações no Repositório local |[Resumos]() |
+|--------------------------------------------------------|
 ...
 git init 
 
